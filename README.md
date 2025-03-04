@@ -1,1 +1,1 @@
-# Covid-Blood-Slot-Booking
+# Covid-Bed-Slot-Booking
